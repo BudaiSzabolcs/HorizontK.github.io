@@ -1,9 +1,8 @@
 body {
-    background-color:  chocolate
+    background-color:  chocolate;
   }
   
   .active {
-  
     color: gold;
     font-family: 'Roboto', sans-serif;
   }
